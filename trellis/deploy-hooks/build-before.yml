@@ -8,24 +8,24 @@
   command: npm install
   connection: local
   args:
-    chdir: "{{ project.local_path }}/web/app/themes/astrum-education"
+    chdir: "{{ project.local_path }}/web/app/themes/astrum-education-base"
 
 - name: Run bower install
   command: bower install
   connection: local
   args:
-    chdir: "{{ project.local_path }}/web/app/themes/astrum-education"
+    chdir: "{{ project.local_path }}/web/app/themes/astrum-education-base"
 
 - name: Run gulp
   command: gulp --production
   connection: local
   args:
-    chdir: "{{ project.local_path }}/web/app/themes/astrum-education"
+    chdir: "{{ project.local_path }}/web/app/themes/astrum-education-base"
 
 - name: Copy project local files
   synchronize:
-    src: "{{ project.local_path }}/web/app/themes/astrum-education/dist"
-    dest: "{{ deploy_helper.new_release_path }}/web/app/themes/astrum-education"
+    src: "{{ project.local_path }}/web/app/themes/astrum-education-base/dist"
+    dest: "{{ deploy_helper.new_release_path }}/web/app/themes/astrum-education-base"
     group: no
     owner: no
     rsync_opts: --chmod=Du=rwx,--chmod=Dg=rx,--chmod=Do=rx,--chmod=Fu=rw,--chmod=Fg=r,--chmod=Fo=r
