@@ -69,3 +69,8 @@ npm install
 bower install
 ```
 
+
+## Deploy Staging
+
+User: admin
+Password: PZJLgH31CCr#)EGqn7z08*(#
