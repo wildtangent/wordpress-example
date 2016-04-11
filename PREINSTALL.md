@@ -58,3 +58,14 @@ composer create-project roots/sage web/app/themes/astrum-education
 * Go to Appearance > Themes > Sage Starter Theme > Activate
 
 
+## Install local dependencies
+
+```shell
+npm install -g npm@latest
+npm install -g gulp bower
+cd [project root]
+cd web/app/themes/astrum-education
+npm install
+bower install
+```
+
