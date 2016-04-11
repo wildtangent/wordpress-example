@@ -39,8 +39,7 @@
     "johnpbloch/wordpress": "4.4.2",
     "oscarotero/env": "^1.0",
     "roots/wp-password-bcrypt": "1.0.0",
-    "wpackagist-plugin/advanced-custom-fields": "4.4.6",
-    "wpackagist-plugin/soil":
+    "wpackagist-plugin/advanced-custom-fields": "4.4.6"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^2.5.1"
