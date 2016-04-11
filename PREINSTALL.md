@@ -69,6 +69,22 @@ npm install
 bower install
 ```
 
+## Run gulp
+
+```shell
+cd [project root]
+cd web/app/themes/astrum-education
+gulp watch
+```
+
+## Build assets for production/stagin
+
+```shell
+cd [project root]
+cd web/app/themes/astrum-education
+gulp --production
+```
+
 
 ## Deploy Staging
 
