@@ -2,7 +2,7 @@
 # List each machine only once per [group], even if it will host multiple sites.
 
 [staging]
-ec2-54-84-57-132.compute-1.amazonaws.com
+staging1.astrumeducation.authomedia.co.uk
 
 [web]
-ec2-54-84-57-132.compute-1.amazonaws.com
+staging1.astrumeducation.authomedia.co.uk
