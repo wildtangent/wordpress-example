@@ -56,6 +56,7 @@
     "roots/wp-password-bcrypt": "1.0.0",
     "wpackagist-plugin/advanced-custom-fields": "4.4.7",
     "wpackagist-plugin/timber-library": "*",
+    "wpackagist-plugin/wordpress-seo": "3.1.2",
     "roots/soil": "3.7.0",
     "wp-premium/gravityforms": "1.9.18"
   },
