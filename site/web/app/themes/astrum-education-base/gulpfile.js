@@ -19,6 +19,9 @@ var runSequence  = require('run-sequence');
 var sass         = require('gulp-sass');
 var sourcemaps   = require('gulp-sourcemaps');
 var uglify       = require('gulp-uglify');
+var webpack      = require('webpack-stream');
+var coffeeLoader = require('coffee-loader');
+var webpackConfig = require('./webpack.config');
 
 // See https://github.com/austinpray/asset-builder
 var manifest = require('asset-builder')('./assets/manifest.json');
@@ -129,6 +132,7 @@ var jsTasks = function(filename) {
     .pipe(function() {
       return gulpif(enabled.maps, sourcemaps.init());
     })
+    .pipe(webpack, webpackConfig)
     .pipe(concat, filename)
     .pipe(uglify, {
       compress: {
