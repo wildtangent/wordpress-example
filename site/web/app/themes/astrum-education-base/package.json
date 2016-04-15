@@ -50,6 +50,7 @@
     "gulp-sourcemaps": "^1.5.2",
     "gulp-uglify": "^1.2.0",
     "imagemin-pngcrush": "^4.1.0",
+    "js-logger": "^1.2.0",
     "jshint-stylish": "^2.0.1",
     "lazypipe": "^1.0.1",
     "merge-stream": "^1.0.0",

@@ -77,7 +77,7 @@ cd web/app/themes/astrum-education
 gulp watch
 ```
 
-## Build assets for production/stagin
+## Build assets for production/staging
 
 ```shell
 cd [project root]
