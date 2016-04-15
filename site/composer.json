@@ -30,6 +30,21 @@
     {
       "type": "composer",
       "url": "https://wpackagist.org"
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "wp-premium/gravityforms",
+        "version": "1.9.18",
+        "type": "wordpress-plugin",
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/wp-premium/gravityforms/archive/1.9.18.zip"
+        },
+        "require" : {
+          "composer/installers": "v1.0.25"
+        }
+      }
     }
   ],
   "require": {
@@ -39,8 +54,10 @@
     "johnpbloch/wordpress": "4.4.2",
     "oscarotero/env": "^1.0",
     "roots/wp-password-bcrypt": "1.0.0",
-    "wpackagist-plugin/advanced-custom-fields": "4.4.6",
-    "wpackagist-plugin/timber-library": "*"
+    "wpackagist-plugin/advanced-custom-fields": "4.4.7",
+    "wpackagist-plugin/timber-library": "*",
+    "roots/soil": "3.7.0",
+    "wp-premium/gravityforms": "1.9.18"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^2.5.1"
