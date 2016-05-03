@@ -5,7 +5,7 @@
 wordpress_sites:
   astrumeducation.com:
     site_hosts:
-      - staging1.astrumeducation.authomedia.co.uk
+      - ec2-52-51-41-124.eu-west-1.compute.amazonaws.com
     local_path: ../site # path targeting local Bedrock site directory (relative to Ansible root)
     repo: git@bitbucket.org:drunkhippies/astrumeducation.com.git # replace with your Git repo URL
     repo_subtree_path: site # relative path to your Bedrock/WP directory in your repo
