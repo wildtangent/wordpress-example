@@ -122,5 +122,10 @@ gulp --production
 
 ## Deploy Staging
 
-User: admin
-Password: PZJLgH31CCr#)EGqn7z08*(#
+```shell
+cd [project root]/trellis
+./deploy.sh staging astrumeducation.com
+```
+
+User: admin  
+Password: PZJLgH31CCr#)EGqn7z08*(#  
