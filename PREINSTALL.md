@@ -50,6 +50,15 @@ cd [project-path]/site
 composer create-project roots/sage web/app/themes/astrum-education
 ```
 
+## Re-provision local environment (e.g. adding Composer libs)
+
+Haven't tested this so it might not be right!
+
+```shell
+cd  [project-path]/trellis
+vagrant provision
+```
+
 ## Activate the new theme
 
 * Visit https://astrumeducation.dev
