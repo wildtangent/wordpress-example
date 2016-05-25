@@ -129,3 +129,13 @@ cd [project root]/trellis
 
 User: admin  
 Password: PZJLgH31CCr#)EGqn7z08*(#  
+
+## Get Help
+
+This Wordpress Install is built on pre-tested tech with good documentation
+
+http://roots.io
+https://github.com/roots/trellis
+https://github.com/roots/bedrock
+https://github.com/studiorabota/sage-twig-theme
+http://timber.github.io/timber/
