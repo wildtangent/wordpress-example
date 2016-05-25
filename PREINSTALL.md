@@ -9,7 +9,7 @@
 ```shell
 brew install ansible
 vagrant plugin install vagrant-bindfs
-vagrant hostmanager
+vagrant plugin install hostmanager
 ```
 
 ## Install Ansible Galaxy Roles
