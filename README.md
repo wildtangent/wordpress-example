@@ -1,6 +1,6 @@
 # README #
 
-See PREINSTALL.md for details for now
+See [PREINSTALL.md](PREINSTALL.md) for details for now
 
 
 
