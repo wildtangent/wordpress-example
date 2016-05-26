@@ -3,11 +3,11 @@
 # https://github.com/taptapship/wiredep
 gulp = require('gulp')
 changed = require('gulp-changed')
-enabled = require('./enabled')
+options = require('./options')
 
-manifest = enabled.manifest
-path = enabled.path
-project = enabled.project
+manifest = options.manifest
+path = options.path
+project = options.project
 
 gulpWiredepTask = ->
   wiredep = require('wiredep').stream

@@ -7,12 +7,12 @@
 gulp = require('gulp')
 gulpif = require('gulp-if')
 jshint = require('gulp-jshint')
-enabled = require('./enabled')
+options = require('./options')
 
-browserSync = enabled.browserSync
-manifest = enabled.manifest
-path = enabled.path
-config = enabled.config
+browserSync = options.browserSync
+manifest = options.manifest
+path = options.path
+config = options.config
 
 gulpWatchTask = ->
   browserSync.init

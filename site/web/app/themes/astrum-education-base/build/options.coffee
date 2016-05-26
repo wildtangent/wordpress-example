@@ -1,6 +1,7 @@
 argv = require('minimist')(process.argv.slice(2))
 browserSync = require('browser-sync').create()
 manifest = require('asset-builder')('./assets/manifest.json')
+
 path = manifest.paths
 globs = manifest.globs
 project = manifest.getProjectGlobs()

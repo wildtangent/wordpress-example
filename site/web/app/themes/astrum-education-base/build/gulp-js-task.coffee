@@ -3,11 +3,11 @@
 # and project JS.
 gulp = require('gulp')
 merge = require('merge-stream')
-enabled = require('./enabled')
+options = require('./options')
 writeToManifest = require('./write-to-manifest')
 jsTasks = require('./js-tasks')
 
-manifest = enabled.manifest
+manifest = options.manifest
 
 gulpJSTask = ->
   merged = merge()

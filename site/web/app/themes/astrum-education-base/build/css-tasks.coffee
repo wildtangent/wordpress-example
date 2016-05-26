@@ -12,7 +12,7 @@ plumber = require('gulp-plumber')
 rev = require('gulp-rev')
 webpack = require('webpack-stream')
 webpackConfig = require('../webpack.config')
-enabled = require('./enabled')
+enabled = require('./options')
 
 # ### CSS processing pipeline
 # Example

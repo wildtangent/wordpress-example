@@ -3,10 +3,10 @@
 gulp = require('gulp')
 gulpif = require('gulp-if')
 jshint = require('gulp-jshint')
-enabled = require('./enabled')
+options = require('./options')
 
-manifest = enabled.manifest
-project = enabled.project
+manifest = options.manifest
+project = options.project
 
 gulpJSHintTask = ->
   gulp.src([
@@ -15,6 +15,6 @@ gulpJSHintTask = ->
   ].concat(project.js))
    .pipe(jshint())
    .pipe(jshint.reporter('jshint-stylish'))
-   .pipe(gulpif(enabled.failJSHint, jshint.reporter('fail')))
+   .pipe(gulpif(options.failJSHint, jshint.reporter('fail')))
 
 module.exports = gulpJSHintTask

@@ -5,16 +5,16 @@
 gulp = require('gulp')
 merge = require('merge-stream')
 writeToManifest = require('./write-to-manifest')
-enabled = require('./enabled')
+options = require('./options')
 cssTasks = require('./css-tasks')
 
-manifest = enabled.manifest
+manifest = options.manifest
 
 gulpCssTask = ->
   merged = merge()
   manifest.forEachDependency 'css', (dep) ->
     cssTasksInstance = cssTasks(dep.name)
-    if !enabled.failStyleTask
+    if !options.failStyleTask
       cssTasksInstance.on 'error', (err) ->
         console.error err.message
         @emit 'end'

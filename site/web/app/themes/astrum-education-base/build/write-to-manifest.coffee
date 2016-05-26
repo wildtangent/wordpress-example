@@ -4,12 +4,12 @@
 gulp = require('gulp')
 rev = require('gulp-rev')
 lazypipe = require('lazypipe')
-enabled = require('./enabled')
+options = require('./options')
 
-browserSync = enabled.browserSync
-manifest = enabled.manifest
-path = enabled.path
-revManifest = enabled.revManifest
+browserSync = options.browserSync
+manifest = options.manifest
+path = options.path
+revManifest = options.revManifest
 
 writeToManifest = (directory) ->
   lazypipe()

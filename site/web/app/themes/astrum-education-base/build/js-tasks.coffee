@@ -13,19 +13,19 @@ rev = require('gulp-rev')
 sourcemaps = require('gulp-sourcemaps')
 webpack = require('webpack-stream')
 webpackConfig = require('../webpack.config')
-enabled = require('./enabled')
+options = require('./options')
 
 jsTasks = (filename) ->
   lazypipe()
     .pipe(->
-      gulpif(enabled.maps, sourcemaps.init())
+      gulpif(options.maps, sourcemaps.init())
     ).pipe(webpack, webpackConfig)
      .pipe(concat, filename)
-     .pipe(uglify, compress: 'drop_debugger': enabled.stripJSDebug)
+     .pipe(uglify, compress: 'drop_debugger': options.stripJSDebug)
      .pipe(->
-        gulpif enabled.rev, rev()
+        gulpif options.rev, rev()
       ).pipe(->
-        gulpif enabled.maps, sourcemaps.write('.', sourceRoot: 'assets/scripts/')
+        gulpif options.maps, sourcemaps.write('.', sourceRoot: 'assets/scripts/')
       )()
 
 module.exports = jsTasks
