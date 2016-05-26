@@ -5,8 +5,8 @@ gulpif = require('gulp-if')
 jshint = require('gulp-jshint')
 enabled = require('./enabled')
 
-manifest = require('asset-builder')('./assets/manifest.json')
-project = manifest.getProjectGlobs()
+manifest = enabled.manifest
+project = enabled.project
 
 gulpJSHintTask = ->
   gulp.src([

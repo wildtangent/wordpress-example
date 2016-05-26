@@ -3,9 +3,11 @@
 # https://github.com/taptapship/wiredep
 gulp = require('gulp')
 changed = require('gulp-changed')
-manifest = require('asset-builder')('./assets/manifest.json')
-path = manifest.paths
-project = manifest.getProjectGlobs()
+enabled = require('./enabled')
+
+manifest = enabled.manifest
+path = enabled.path
+project = enabled.project
 
 gulpWiredepTask = ->
   wiredep = require('wiredep').stream

@@ -5,11 +5,11 @@ gulp = require('gulp')
 rev = require('gulp-rev')
 lazypipe = require('lazypipe')
 enabled = require('./enabled')
-browserSync = enabled.browserSync
 
-manifest = require('asset-builder')('./assets/manifest.json')
-path = manifest.paths
-revManifest = path.dist + 'assets.json'
+browserSync = enabled.browserSync
+manifest = enabled.manifest
+path = enabled.path
+revManifest = enabled.revManifest
 
 writeToManifest = (directory) ->
   lazypipe()

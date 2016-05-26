@@ -1,7 +1,7 @@
 # ### Clean
 # `gulp clean` - Deletes the build folder entirely.
 gulp = require('gulp')
-manifest = require('asset-builder')('./assets/manifest.json')
-path = manifest.paths
+enabled = require('./enabled')
+path = enabled.path
 
 module.exports = require('del').bind(null, [ path.dist ])

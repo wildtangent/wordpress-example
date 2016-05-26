@@ -4,10 +4,11 @@
 # raised. If the `--production` flag is set: this task will fail outright.
 gulp = require('gulp')
 merge = require('merge-stream')
-manifest = require('asset-builder')('./assets/manifest.json')
 writeToManifest = require('./write-to-manifest')
 enabled = require('./enabled')
 cssTasks = require('./css-tasks')
+
+manifest = enabled.manifest
 
 gulpCssTask = ->
   merged = merge()

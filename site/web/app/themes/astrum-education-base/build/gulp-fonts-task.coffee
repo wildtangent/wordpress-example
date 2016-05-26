@@ -4,11 +4,11 @@
 gulp = require('gulp')
 flatten = require('gulp-flatten')
 enabled = require('./enabled')
-browserSync = enabled.browserSync
 
-manifest = require('asset-builder')('./assets/manifest.json')
-path = manifest.paths
-globs = manifest.globs
+browserSync = enabled.browserSync
+manifest = enabled.manifest
+path = enabled.path
+globs = enabled.globs
 
 gulpFontsTask = ->
   gulp.src(globs.fonts)
