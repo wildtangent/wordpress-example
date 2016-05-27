@@ -37,4 +37,8 @@ cd [project-root]/site/web/app/themes
 npm run clean
 ```
 
+## LIMITATIONS
 
+Currently, the base and child theme assets load as separate files. It would be better if the child theme used the code from core and handled overrides instead of just having another file. 
+
+I think this should be quite possible but have run out of time to make it stable.
