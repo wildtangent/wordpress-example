@@ -18,6 +18,13 @@ vagrant plugin install vagrant-hostmanager
 cd trellis &&  ansible-galaxy install -r requirements.yml
 ```
 
+## Setup Hostmanager
+
+```shell
+vagrant hostmanager
+```
+
+
 ## Run Vagrant up
 
 ```shell
@@ -25,12 +32,39 @@ cd trellis
 vagrant up
 ```
 
-## Setup Hostmanager
+## Re-provision Vagrant environment (e.g. adding Composer libs)
 
 ```shell
-vagrant hostmanager
+cd  [project-path]/trellis
+vagrant provision
 ```
 
+## Enabling Wordpress Features
+
+Log into the Wordpress admin at
+https://astrumeducation.dev/admin
+
+User/PW: admin/admin
+
+### Enable all the theme and plugins
+
+Theme is Sage + Twig Starter Theme
+Enable all the plugins
+ACF, Gravity Forms., Polylang, Soil, Timber and YOAST
+
+Go to Plugins > Polylang > Settings and create new language (en_GB)
+Go to Settings > Permalinks and just click save to flush the permalink cache
+Finally, go to the post and the page it creates by default and re-save them to get it to use the proper locale
+
+### Create a style guide page
+
+Create a new Page with title “Style Guide” and the content from here:
+http://www.poormansstyleguide.com/
+
+Then try and view it:
+https://astrumeducation.dev/en/style-guide/
+
+## LOCAL SHIT
 
 ## Install Composer
 
@@ -88,5 +122,20 @@ gulp --production
 
 ## Deploy Staging
 
-User: admin
-Password: PZJLgH31CCr#)EGqn7z08*(#
+```shell
+cd [project root]/trellis
+./deploy.sh staging astrumeducation.com
+```
+
+User: admin  
+Password: PZJLgH31CCr#)EGqn7z08*(#  
+
+## Get Help
+
+This Wordpress Install is built on pre-tested tech with good documentation
+
+* [http://roots.io](http://roots.io)  
+* [https://github.com/roots/trellis](https://github.com/roots/trellis)  
+* [https://github.com/roots/bedrock](https://github.com/roots/bedrock)  
+* [https://github.com/studiorabota/sage-twig-theme](https://github.com/studiorabota/sage-twig-theme)  
+* [http://timber.github.io/timber/](http://timber.github.io/timber/)  

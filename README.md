@@ -1,6 +1,10 @@
 # README #
 
+<<<<<<< HEAD
 See [PREINSTALL.md](PREINSTALL.md) for details on how to get set up with [Trellis](https://roots.io/trellis/) and [Vagrant](https://www.vagrantup.com/)
+=======
+See [PREINSTALL.md](PREINSTALL.md) for details for now
+>>>>>>> master
 
 ## THEME DEVELOPMENT
 
