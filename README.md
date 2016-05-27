@@ -1,12 +1,10 @@
 # README #
 
-<<<<<<< HEAD
 See [PREINSTALL.md](PREINSTALL.md) for details on how to get set up with [Trellis](https://roots.io/trellis/) and [Vagrant](https://www.vagrantup.com/)
-=======
-See [PREINSTALL.md](PREINSTALL.md) for details for now
->>>>>>> master
 
 ## THEME DEVELOPMENT
+
+> If you have previously built the project prior to the change to Webpack, please make sure you have removed the `node_modules` and `bower_components` folders from within `./themes/astrum-education-base` or it may not build. Ensure you run `bower install` and `npm install` from within the `./themes` folder now.
 
 We are currently using the [sage-twig-theme](https://github.com/studiorabota/sage-twig-theme) theme.
 
