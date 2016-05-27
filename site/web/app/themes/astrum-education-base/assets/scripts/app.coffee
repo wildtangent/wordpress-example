@@ -3,7 +3,8 @@ Logger = require 'js-logger'
 
 class App
   constructor: ->
-    Logger.useDefaults();
+    Logger.useDefaults()
     $(document).ready UTIL.loadEvents
+    console.log("App has loaded")
 
 module.exports = App

@@ -1,0 +1,56 @@
+{
+  "name": "astrum-education",
+  "version": "0.0.1",
+  "author": "Joe Connor <joe@authomedia.co.uk>",
+  "homepage": "https://roots.io/sage/",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/roots/sage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/roots/sage/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "scripts": {
+    "clean": "rm -rf dist && rm -rf astrum-education-base/dist",
+    "build": "bower install && npm run watch",
+    "build-production": "npm run clean && TARGET=production ./node_modules/.bin/webpack --config webpack.config.js",
+    "watch": "./node_modules/.bin/webpack-dev-server --config webpack.config.js --https --inline --hot"
+  },
+  "engines": {
+    "node": ">=5.10.0",
+    "npm": ">=3.8.6"
+  },
+  "devDependencies": {
+    "bower-webpack-plugin": "^0.1.9",
+    "coffee-lint-loader": "0.0.1",
+    "coffee-loader": "^0.7.2",
+    "coffee-script": "^1.10.0",
+    "css-loader": "^0.23.1",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "file-loader": "^0.8.5",
+    "font-awesome": "^4.6.3",
+    "font-awesome-loader": "0.0.1",
+    "imports-loader": "^0.6.5",
+    "jade": "^1.11.0",
+    "jade-loader": "^0.8.0",
+    "jquery": "^2.2.4",
+    "js-logger": "^1.2.0",
+    "node-sass": "^3.7.0",
+    "postcss-loader": "^0.9.1",
+    "resolve-url-loader": "^1.4.3",
+    "sass-loader": "^3.2.0",
+    "stats-webpack-plugin": "^0.3.1",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1",
+    "webpack-manifest-plugin": "^1.0.1"
+  }
+}

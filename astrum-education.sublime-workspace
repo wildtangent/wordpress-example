@@ -1,0 +1,1429 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"gulpW",
+				"gulpWiredepTask"
+			],
+			[
+				"Spre",
+				"SpreeGoogleMapsMulti"
+			],
+			[
+				"mainIm",
+				"mainImageImg"
+			],
+			[
+				"js-",
+				"js-product-scheduler-calendar"
+			],
+			[
+				"partic",
+				"participant_type"
+			],
+			[
+				"secre",
+				"secretAccessKey"
+			],
+			[
+				"youtube",
+				"youtubeLinks"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"S",
+				"SlideActionInfographic"
+			],
+			[
+				"pathwayDee",
+				"pathwayDeepYellow"
+			],
+			[
+				"pat",
+				"pathwayOrange"
+			],
+			[
+				"togg",
+				"toggleOpenCallback"
+			],
+			[
+				"body",
+				"bodyActiveClass"
+			],
+			[
+				"laz",
+				"lazyLoaderElem"
+			],
+			[
+				"car",
+				"carouselElem"
+			],
+			[
+				"fee",
+				"feedbackForm"
+			],
+			[
+				"data-bespo",
+				"data-bespoke-title"
+			],
+			[
+				"do",
+				"do"
+			],
+			[
+				"CON",
+				"CONFIRMED_CORPORATE_USER_NAME"
+			],
+			[
+				"market",
+				"marketing_system"
+			],
+			[
+				"frame",
+				"frames"
+			],
+			[
+				"_",
+				"_onMenuItemTouchTap"
+			],
+			[
+				"far",
+				"farEnoughFromBottomOfBody"
+			],
+			[
+				"farEn",
+				"farEnoughFromTopOfBody"
+			],
+			[
+				"farEnoughFrom",
+				"farEnoughFromBottomOfBody"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "site/web/app/themes/astrum-education/webpack.config.js",
+			"settings":
+			{
+				"buffer_size": 4308,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "site/web/app/themes/astrum-education/assets/scripts/astrum-education.coffee",
+			"settings":
+			{
+				"buffer_size": 39,
+				"line_ending": "Unix",
+				"name": "require('styles/astrum-education.scss')"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 187.0,
+		"last_filter": "javs",
+		"selected_items":
+		[
+			[
+				"javs",
+				"Javascript Beautify"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"twig",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"PACKAGE",
+				"Package Control: Install Package"
+			],
+			[
+				"SPACES",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"SPPACE",
+				"Snippet: Array Comprehension"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"title",
+				"Convert Case: Title Case"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"commit",
+				"Git: Quick Commit"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"yml",
+				"Set Syntax: YAML"
+			],
+			[
+				"coffeescript",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"comb",
+				"Run CSScomb"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"stylus",
+				"Set Syntax: Stylus"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"javascript",
+				"Format: Javascript"
+			],
+			[
+				"css",
+				"Run CSScomb"
+			],
+			[
+				"csscom",
+				"Run CSScomb"
+			],
+			[
+				"cssc",
+				"Run CSScomb"
+			],
+			[
+				"gem",
+				"Git: Merge Branch"
+			],
+			[
+				"rspec",
+				"Set Syntax: RSpec"
+			],
+			[
+				"HAML",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"jav a",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"install a",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education/assets",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education/assets/scripts",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education/assets/styles"
+	],
+	"file_history":
+	[
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education/assets/styles/main.scss",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education/functions.php",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/astrum-education.sublime-project",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/wp/wp-includes/functions.php",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/assets/scripts/astrum-education.coffee",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/assets/styles/astrum-education.scss",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/webpack-new.config.js",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/assets/styles/main.scss",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/node_modules/bootstrap-loader/lib/bootstrap.scripts.loader.js",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/node_modules/bootstrap-loader/no-op.js",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/webpack.config.js",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/build/js-tasks.coffee",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/LICENSE.md",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/assets/scripts/app.coffee",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/build/gulp-js-task.coffee",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/dist/scripts/main.js.map",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/dist/styles/main.css",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/build/options.coffee",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/build/gulp-css-task.coffee",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/build/css-tasks.coffee",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/dist/scripts/main.js",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/assets/styles/common/_variables.scss",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/gulpfile.coffee",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/wp/wp-admin/options.php",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/build/gulp-default-task.coffee",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/build/gulp-build-task.coffee",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/build/gulp-clean-task.coffee",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/build/gulp-fonts-task.coffee",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/build/gulp-images-task.coffee",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/build/gulp-jshint-task.coffee",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/build/gulp-wiredep-task.coffee",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/build/gulp-watch-task.coffee",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/build/write-to-manifest.coffee",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/404.php",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/build/enabled.coffee",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/build/foo-css-tasks.js",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/build/foo-gulp-fonts-task.js",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/gulpfile-OLD.js",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/gulpfile.js",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/assets/scripts/main.js",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/build/gulp-jshint-task.js",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/build/gulp-build-task.js",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/build/gulp-wiredep-task.js",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/build/gulp-default-task.js",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/build/gulp-clean-task.js",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/build/gulp-watch-task.js",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/assets/images/test.jpg",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/build/write-to-manifest.js",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/build/gulp-images-task.js",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/build/gulp-fonts-task.js",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/build/gulp-css-task.js",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/build/css-tasks.js",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/build/js-tasks.js",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/assets/fonts/test.woff",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/assets/manifest.json",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/build/enabled.js",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/build/gulp-js-task.js",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/lib/assets.php",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/gulpfile-TODO.js",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/functions.php",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/templates/head.twig",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/lib/titles.php",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/lib/customizer.php",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/templates/header.twig",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education/templates/header.twig",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/style.css",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education/style.css",
+		"/Users/joeconnor/git/bolser/gin-festival/config/environments/staging.rb",
+		"/Users/joeconnor/git/bolser/gin-festival/config/environments/development.rb",
+		"/Users/joeconnor/git/bolser/gin-festival/app/assets/javascripts/spree/frontend/product.js.coffee",
+		"/Users/joeconnor/git/bolser/gin-festival/config/database.yml",
+		"/Users/joeconnor/git/bolser/gin-festival/.env.sample",
+		"/Users/joeconnor/git/bolser/gin-festival/.env",
+		"/Users/joeconnor/git/bolser/gin-festival/config/secrets.yml",
+		"/Users/joeconnor/git/bolser/gin-festival/vendor/assets/javascripts/spree/frontend/all.js",
+		"/Users/joeconnor/git/bolser/gin-festival/vendor/assets/javascripts/spree/frontend/cart_override.js.coffee",
+		"/Users/joeconnor/git/bolser/gin-festival/app/assets/javascripts/spree/frontend/spree_searchkick.js",
+		"/Users/joeconnor/git/bolser/gin-festival/vendor/assets/javascripts/spree/backend/all.js",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/assets/scripts/util.coffee",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/assets/scripts/customizer.js",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/assets/scripts/sage.coffee",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/site/web/app/themes/astrum-education-base/assets/styles/common/_global.scss",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/trellis/group_vars/development/wordpress_sites.yml",
+		"/Users/joeconnor/git/astrum-education/astrumeducation.com/trellis/group_vars/development/vault.yml",
+		"/Users/joeconnor/git/bolser/gin-festival/app/views/spree/products/index.html.erb",
+		"/Users/joeconnor/git/bolser/gin-festival/app/views/spree/shared/_products.html.erb",
+		"/Users/joeconnor/git/bolser/gin-festival/app/views/spree/shared/_header.html.erb",
+		"/Users/joeconnor/git/bolser/gin-festival/app/views/spree/shared/_search.html.erb",
+		"/Users/joeconnor/git/bolser/gin-festival/app/assets/javascripts/core.js",
+		"/Users/joeconnor/git/bolser/gin-festival/spree_news/app/assets/javascripts/spree/frontend/spree_news.js.coffee.erb",
+		"/Users/joeconnor/git/bolser/gin-festival/app/assets/javascripts/infinite-pagination.js.coffee.erb",
+		"/Users/joeconnor/git/bolser/gin-festival/spree_event_brite/app/views/spree/events/index.html.erb",
+		"/Users/joeconnor/git/bolser/gin-festival/spree_event_brite/app/views/spree/events/show.html.erb",
+		"/Users/joeconnor/git/bolser/gin-festival/app/views/spree/layouts/spree_application.html.erb",
+		"/Users/joeconnor/git/bolser/gin-festival/app/views/spree/home/index.html.erb",
+		"/Users/joeconnor/git/bolser/gin-festival/app/helpers/application_helper.rb",
+		"/Users/joeconnor/git/bolser/gin-festival/spree_event_brite/app/assets/javascripts/spree/frontend/spree_event_brite.js.coffee",
+		"/Users/joeconnor/git/bolser/gin-festival/spree_event_brite/app/models/spree/event.rb",
+		"/Users/joeconnor/git/bolser/gin-festival/spree_event_brite/app/assets/javascripts/spree/frontend/event_brite_google_maps.js.coffee",
+		"/Users/joeconnor/git/bolser/gin-festival/spree_event_brite/spec/spec_helper.rb",
+		"/Users/joeconnor/git/bolser/gin-festival/app/assets/javascripts/application.js.coffee",
+		"/Users/joeconnor/git/bolser/gin-festival/app/views/spree/shared/_event_panel.html.erb",
+		"/Users/joeconnor/git/bolser/gin-festival/spree_pages/app/views/spree/pages/home.html.erb",
+		"/Users/joeconnor/git/bolser/gin-festival/app/views/layouts/application.html.erb",
+		"/Users/joeconnor/git/bolser/gin-festival/app/views/layouts/_footer.html.erb",
+		"/Users/joeconnor/git/bolser/gin-festival/app/helpers/spree/frontend_helper_decorator.rb",
+		"/Users/joeconnor/git/bolser/gin-festival/app/controllers/spree/homes_controller_decorator.rb",
+		"/Users/joeconnor/git/bolser/gin-festival/app/models/spree/taxon_decorator.rb",
+		"/Users/joeconnor/git/bolser/gin-festival/spree_event_brite/app/helpers/spree/events_helper.rb",
+		"/Users/joeconnor/git/bolser/gin-festival/app/controllers/spree/taxons_controller_decorator.rb",
+		"/Users/joeconnor/git/bolser/gin-festival/config/locales/en.yml",
+		"/Users/joeconnor/git/bolser/gin-festival/app/views/spree/shared/_product_panel_favourite.html.erb",
+		"/Users/joeconnor/git/bolser/gin-festival/app/controllers/application_controller.rb",
+		"/Users/joeconnor/git/bolser/gin-festival/app/views/spree/shared/_taxon_panel_favourite.html.erb",
+		"/Users/joeconnor/git/bolser/gin-festival/app/views/spree/shared/_filters.html.erb",
+		"/Users/joeconnor/git/bolser/gin-festival/app/views/spree/shared/_taxonomies.html.erb",
+		"/Users/joeconnor/git/bolser/gin-festival/app/views/spree/taxons/show.html.erb",
+		"/Users/joeconnor/git/bolser/gin-festival/app/views/spree/products/_products_sidebar.html.erb",
+		"/Users/joeconnor/git/bolser/gin-festival/app/views/spree/shared/_product_panel.html.erb",
+		"/Users/joeconnor/git/bolser/gin-festival/spree_sale_prices/spec/dummy/db/migrate/20160516051327_remove_promotions_event_name_field.spree.rb",
+		"/Users/joeconnor/git/bolser/gin-festival/spree_sale_prices/app/models/spree/product_decorator.rb",
+		"/Users/joeconnor/git/bolser/gin-festival/spree_event_brite/config/locales/en.yml",
+		"/Users/joeconnor/git/bolser/gin-festival/spree_event_brite/app/controllers/spree/events_controller.rb",
+		"/Users/joeconnor/git/bolser/gin-festival/spree_event_brite/app/helpers/events_helper.rb",
+		"/Users/joeconnor/git/bolser/gin-festival/app/views/spree/home/_products_favourite_panel.html.erb.rhtml",
+		"/Users/joeconnor/git/bolser/gin-festival/app/views/spree/shared/_taxon_panel.html.erb",
+		"/Users/joeconnor/git/bolser/gin-festival/config/routes.rb",
+		"/Users/joeconnor/git/bolser/gin-festival/app/assets/stylesheets/_shop.scss"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open files>",
+			"",
+			"./*.coffee",
+			"*.coffee",
+			"./*.coffee",
+			"",
+			"*.rb",
+			"*.coffee",
+			"",
+			"*.coffee",
+			"*.jade",
+			"*",
+			"",
+			"*.php",
+			"*.json",
+			"*.yml",
+			"*.json",
+			"*.yml",
+			"*.json",
+			"*.scss",
+			"*.jade",
+			"*.coffee",
+			"*.jade",
+			"*.scss",
+			"*.scs",
+			"*.jade",
+			"*.scss",
+			"*.jade",
+			"*.coffee",
+			"*.scss",
+			"",
+			"*.scss",
+			"*.coffee",
+			"",
+			"*.scss",
+			"*.coffee",
+			"*.scss",
+			"",
+			"*.erb",
+			"*.rb",
+			"*.r",
+			"",
+			"*.js, *.erb",
+			"*.erb",
+			"*.rb",
+			"*.js, *.erb",
+			"",
+			"*.js, *.erb",
+			"*",
+			"*.js",
+			"*.erb",
+			"*.ervb",
+			"*.rb",
+			"*.erb",
+			"*.rb",
+			"*.js",
+			"",
+			"*.erb",
+			"",
+			"*.js",
+			"*.rb",
+			"",
+			"*.rb",
+			"*.*",
+			"",
+			"*.rb",
+			"*.js",
+			"*.rb",
+			"*.js",
+			"*.rb",
+			"src/app/*.jsx",
+			"/src/app/*.jsx",
+			"*.jsx",
+			"\"",
+			"src/*.js",
+			"/src.js",
+			"*.js",
+			"*.jsx",
+			"*.coffee",
+			"*.php",
+			"*.coffee",
+			"*.php",
+			"*.coffee",
+			"*.rb",
+			"*.coffee",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"assets",
+			"webpack",
+			"dest",
+			"enabled",
+			"options",
+			"enabled",
+			"manifest",
+			"enabled",
+			"browserSync",
+			"config",
+			"globs",
+			"paths",
+			"enabled",
+			"dep",
+			"cssTasks",
+			"merged",
+			"browserSync",
+			"path",
+			"revManifest",
+			"argv",
+			"secret_token",
+			"writeToManifest",
+			"revManifest",
+			"js-products-",
+			"<<<<",
+			"false",
+			"googlemapscontrols",
+			"scrolloff",
+			".lat",
+			"length",
+			"map",
+			"lon",
+			"script",
+			"root_taxon",
+			"taxons_tree",
+			"taxon_sidebar_navigation",
+			"ul",
+			"homepage_sidebar_n",
+			"def taxons_tree",
+			"@taxo",
+			"def breadcrumbs",
+			"BreadcrumbList",
+			"paperclip",
+			".margin-top",
+			"margin-top",
+			"index",
+			"OR TRY SOME OF OUR FAVOURITES",
+			"image",
+			"OR TRY SOME",
+			"Taxonomy.master",
+			"shopper",
+			"shopper gins",
+			"js-product-list-item",
+			"js-post-list",
+			"news",
+			"spree_news",
+			"<<<",
+			"default_url",
+			"module",
+			"account-details",
+			":events",
+			"each_with_index",
+			"image1",
+			"def related",
+			"related",
+			"\\\"",
+			"related_products",
+			"canonical",
+			"meta_data_tags",
+			"index",
+			"google_maps",
+			"Spree.fetch_cart",
+			"assets",
+			"mouse leave",
+			"sprockets",
+			"spree",
+			"meta_data_tags",
+			"meta_Data_tags",
+			"@events",
+			"continue shopping",
+			"continue",
+			"gibbon",
+			"tax",
+			"RUBOCOP",
+			" {",
+			"\"",
+			"new",
+			"\"",
+			"ProductSchedulerCalendar",
+			"tabs-control",
+			":get =>",
+			"\"",
+			"sche",
+			"schedl",
+			"\"",
+			":put => ",
+			":post => ",
+			":get => ",
+			"\"",
+			"amount_in_cents",
+			"amount_cents",
+			" {",
+			"faker",
+			"prices",
+			"resourcify",
+			"productScheduler",
+			"app.css",
+			"ExtractText",
+			"coffee",
+			"bespoke-title",
+			"titles",
+			"Inspiring Examples",
+			"Evoking Orange",
+			"slide-102",
+			"Orange is all",
+			"Orange is the new",
+			"slide-44",
+			"Orange is the new",
+			"	",
+			"count",
+			"javascript",
+			"#",
+			"resque",
+			"Airbrake",
+			"_gaq",
+			"Factory Media",
+			"factory",
+			"factory-"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"options",
+			"\"",
+			"'",
+			"get: ",
+			"'",
+			"' ",
+			"put: ",
+			"post: ",
+			"get: ",
+			"'",
+			"\": \"",
+			",",
+			".jpg",
+			"phablet",
+			".purple",
+			".g-row",
+			"'",
+			"\\n    ",
+			"    \\n",
+			"\\n",
+			"\"",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "site/web/app/themes/astrum-education/webpack.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4308,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								958,
+								958
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 128.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "site/web/app/themes/astrum-education/assets/scripts/astrum-education.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 39,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16,
+								16
+							]
+						],
+						"settings":
+						{
+							"auto_name": "require('styles/astrum-education.scss')",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "astrum-education.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"functions.php",
+				"site/web/app/themes/astrum-education/functions.php"
+			],
+			[
+				"webpac",
+				"astrum-education-base/webpack-new.config.js"
+			],
+			[
+				"main.coffee",
+				"astrum-education-base/assets/scripts/main.coffee"
+			],
+			[
+				"webpack-new",
+				"astrum-education-base/webpack-new.config.js"
+			],
+			[
+				"util.coff",
+				"assets/scripts/util.coffee"
+			],
+			[
+				"app.coffee",
+				"assets/scripts/app.coffee"
+			],
+			[
+				"gulp",
+				"build/gulp-js-task.coffee"
+			],
+			[
+				"webpa",
+				"webpack.config.js"
+			],
+			[
+				"js-task",
+				"build/js-tasks.coffee"
+			],
+			[
+				"webpack",
+				"webpack.config.js"
+			],
+			[
+				"webpack.conf",
+				"webpack.config.js"
+			],
+			[
+				"gulp-js-task",
+				"build/gulp-js-task.coffee"
+			],
+			[
+				"js-tasks",
+				"build/js-tasks.coffee"
+			],
+			[
+				"gulp-css-task",
+				"build/gulp-css-task.coffee"
+			],
+			[
+				"options",
+				"build/options.coffee"
+			],
+			[
+				"css-tasks",
+				"site/web/app/themes/astrum-education-base/build/css-tasks.coffee"
+			],
+			[
+				"css-task",
+				"site/web/app/themes/astrum-education-base/build/css-tasks.coffee"
+			],
+			[
+				"gulp-jstas",
+				"site/web/app/themes/astrum-education-base/build/gulp-js-task.coffee"
+			],
+			[
+				"options.coffee",
+				"site/web/app/themes/astrum-education-base/build/options.coffee"
+			],
+			[
+				"default-tas",
+				"site/web/app/themes/astrum-education-base/build/gulp-default-task.coffee"
+			],
+			[
+				"gulpfile",
+				"site/web/app/themes/astrum-education-base/gulpfile.coffee"
+			],
+			[
+				"gulp-fonts-",
+				"site/web/app/themes/astrum-education-base/build/gulp-fonts-task.coffee"
+			],
+			[
+				"write-to-man",
+				"site/web/app/themes/astrum-education-base/build/write-to-manifest.coffee"
+			],
+			[
+				"wiredep-task",
+				"site/web/app/themes/astrum-education-base/build/gulp-wiredep-task.coffee"
+			],
+			[
+				"gulp-clean",
+				"site/web/app/themes/astrum-education-base/build/gulp-clean-task.coffee"
+			],
+			[
+				"variables",
+				"site/web/app/themes/astrum-education-base/assets/styles/common/_variables.scss"
+			],
+			[
+				"gulpfile.js",
+				"site/web/app/themes/astrum-education-base/gulpfile.js"
+			],
+			[
+				"_variables",
+				"site/web/app/themes/astrum-education-base/assets/styles/common/_variables.scss"
+			],
+			[
+				"manifet",
+				"site/web/app/themes/astrum-education-base/assets/manifest.json"
+			],
+			[
+				"manifest.json",
+				"site/web/app/themes/astrum-education-base/assets/manifest.json"
+			],
+			[
+				"enabled.js",
+				"site/web/app/themes/astrum-education-base/build/enabled.js"
+			],
+			[
+				"gulpfile.",
+				"site/web/app/themes/astrum-education-base/gulpfile.js"
+			],
+			[
+				"product.js",
+				"app/assets/javascripts/spree/frontend/product.js.coffee"
+			],
+			[
+				"developm",
+				"config/environments/development.rb"
+			],
+			[
+				"staging.rb",
+				"config/environments/staging.rb"
+			],
+			[
+				".env.sa",
+				".env.sample"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"secrets",
+				"config/secrets.yml"
+			],
+			[
+				"deve",
+				"config/environments/development.rb"
+			],
+			[
+				"vault.",
+				"group_vars/development/vault.yml"
+			],
+			[
+				"databa",
+				"config/database.yml"
+			],
+			[
+				"shared/prod",
+				"app/views/spree/shared/_products.html.erb"
+			],
+			[
+				"products/index",
+				"app/views/spree/products/index.html.erb"
+			],
+			[
+				"database",
+				"config/database.yml"
+			],
+			[
+				"spree_news",
+				"spree_news/app/assets/javascripts/spree/frontend/spree_news.js.coffee.erb"
+			],
+			[
+				"core.js",
+				"app/assets/javascripts/core.js"
+			],
+			[
+				"search.html",
+				"app/views/spree/shared/_search.html.erb"
+			],
+			[
+				"header.html",
+				"app/views/spree/shared/_header.html.erb"
+			],
+			[
+				"database.yml",
+				"config/database.yml"
+			],
+			[
+				"events/so",
+				"spree_event_brite/app/views/spree/events/show.html.erb"
+			],
+			[
+				"spree_app",
+				"app/views/spree/layouts/spree_application.html.erb"
+			],
+			[
+				"shared/header",
+				"app/views/spree/shared/_header.html.erb"
+			],
+			[
+				"spree_appl",
+				"app/views/spree/layouts/spree_application.html.erb"
+			],
+			[
+				"index.html.eb",
+				"spree_event_brite/app/views/spree/events/index.html.erb"
+			],
+			[
+				"index.html.erb",
+				"app/views/spree/home/index.html.erb"
+			],
+			[
+				"events_helper",
+				"spree_event_brite/spec/spec_helper.rb"
+			],
+			[
+				"show.thml",
+				"spree_event_brite/app/views/spree/events/show.html.erb"
+			],
+			[
+				"application_helper",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"spree_event_brite.js",
+				"spree_event_brite/app/assets/javascripts/spree/frontend/spree_event_brite.js.coffee"
+			],
+			[
+				"events/index.",
+				"spree_event_brite/app/views/spree/events/index.html.erb"
+			],
+			[
+				"spree_event_brite.js.",
+				"spree_event_brite/app/assets/javascripts/spree/frontend/spree_event_brite.js.coffee"
+			],
+			[
+				"event.rb",
+				"spree_event_brite/app/models/spree/event.rb"
+			],
+			[
+				"show.html.",
+				"spree_event_brite/app/views/spree/events/show.html.erb"
+			],
+			[
+				"event_panel",
+				"app/views/spree/shared/_event_panel.html.erb"
+			],
+			[
+				"events/show",
+				"spree_event_brite/app/views/spree/events/show.html.erb"
+			],
+			[
+				"taxon_de",
+				"app/models/spree/taxon_decorator.rb"
+			],
+			[
+				"taxons_de",
+				"app/controllers/spree/taxons_controller_decorator.rb"
+			],
+			[
+				"home_",
+				"app/controllers/spree/homes_controller_decorator.rb"
+			],
+			[
+				"frontend_he",
+				"app/helpers/spree/frontend_helper_decorator.rb"
+			],
+			[
+				"layouts/footer",
+				"app/views/layouts/_footer.html.erb"
+			],
+			[
+				"application.html",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"home.html.erb",
+				"spree_pages/app/views/spree/pages/home.html.erb"
+			],
+			[
+				"en.yml",
+				"config/locales/en.yml"
+			],
+			[
+				"product_panel_f",
+				"app/views/spree/shared/_product_panel_favourite.html.erb"
+			],
+			[
+				"home.html",
+				"spree_pages/app/views/spree/pages/home.html.erb"
+			],
+			[
+				"favourite",
+				"app/views/spree/shared/_taxon_panel_favourite.html.erb"
+			],
+			[
+				"homes_con",
+				"app/controllers/spree/homes_controller_decorator.rb"
+			],
+			[
+				"home/inde",
+				"app/views/spree/home/index.html.erb"
+			],
+			[
+				"filters",
+				"app/views/spree/shared/_filters.html.erb"
+			],
+			[
+				"taxonomies",
+				"app/views/spree/shared/_taxonomies.html.erb"
+			],
+			[
+				"taxonomie",
+				"app/views/spree/shared/_taxonomies.html.erb"
+			],
+			[
+				"filters.html",
+				"app/views/spree/shared/_filters.html.erb"
+			],
+			[
+				"products_sdieb",
+				"app/views/spree/products/_products_sidebar.html.erb"
+			],
+			[
+				"index.html.",
+				"app/views/spree/products/index.html.erb"
+			],
+			[
+				"taxon_p",
+				"app/views/spree/shared/_taxon_panel_favourite.html.erb"
+			],
+			[
+				"product_panel",
+				"app/views/spree/shared/_product_panel.html.erb"
+			],
+			[
+				"price_panel",
+				"spree_sale_prices/spec/dummy/db/migrate/20160516051327_remove_promotions_event_name_field.spree.rb"
+			],
+			[
+				"home_con",
+				"app/controllers/spree/homes_controller_decorator.rb"
+			],
+			[
+				"taxons_con",
+				"app/controllers/spree/taxons_controller_decorator.rb"
+			],
+			[
+				"spree_applic",
+				"app/views/spree/layouts/spree_application.html.erb"
+			],
+			[
+				"taxons/show",
+				"app/views/spree/taxons/show.html.erb"
+			],
+			[
+				"_taxonomies.html",
+				"app/views/spree/shared/_taxonomies.html.erb"
+			],
+			[
+				"taxon_pan",
+				"app/views/spree/shared/_taxon_panel_favourite.html.erb"
+			],
+			[
+				"product_dec",
+				"spree_sale_prices/app/models/spree/product_decorator.rb"
+			],
+			[
+				"taxon_dec",
+				"app/models/spree/taxon_decorator.rb"
+			],
+			[
+				"taxon_panel",
+				"app/views/spree/shared/_taxon_panel.html.erb"
+			],
+			[
+				"post.rb",
+				"spree_news/app/models/spree/post.rb"
+			],
+			[
+				"post_dec",
+				"spree_sale_prices/app/models/spree/product_decorator.rb"
+			],
+			[
+				"taxon",
+				"app/models/spree/taxonomy_decorator.rb"
+			],
+			[
+				"taxon_pane",
+				"app/views/spree/shared/_taxon_panel.html.erb"
+			],
+			[
+				"_shop.",
+				"app/assets/stylesheets/_shop.scss"
+			],
+			[
+				"taxon_panl",
+				"app/views/spree/shared/_taxon_panel.html.erb"
+			],
+			[
+				"routes.rb",
+				"config/routes.rb"
+			],
+			[
+				"gemfile",
+				"Gemfile"
+			],
+			[
+				"page.rb",
+				"spree_pages/app/models/spree/page.rb"
+			],
+			[
+				"db/sch",
+				"db/schema.rb"
+			],
+			[
+				"posts_con",
+				"spree_news/app/controllers/spree/posts_controller.rb"
+			],
+			[
+				"posts/show.",
+				"spree_news/app/views/spree/posts/show.html.erb"
+			],
+			[
+				"posts_list",
+				"spree_news/app/views/spree/posts/_posts_list.html.erb"
+			],
+			[
+				"index.js.er",
+				"app/views/spree/products/index.js.erb"
+			],
+			[
+				"shared/products",
+				"app/views/spree/shared/_products.html.erb"
+			],
+			[
+				"infinite",
+				"app/assets/javascripts/infinite-pagination.js.coffee.erb"
+			],
+			[
+				"posts/index",
+				"spree_news/app/views/spree/posts/index.html.erb"
+			],
+			[
+				"index.html",
+				"spree_news/app/views/spree/posts/index.html.erb"
+			],
+			[
+				"admin/posts/index",
+				"spree_news/app/views/spree/admin/posts/index.html.erb"
+			],
+			[
+				"news/_form",
+				"spree_news/app/views/spree/admin/posts/_form.html.erb"
+			],
+			[
+				"product.rb",
+				"app/models/product_decorator.rb"
+			],
+			[
+				"schema.rb",
+				"db/schema.rb"
+			],
+			[
+				"product_price",
+				"app/views/spree/shared/_product_price.html.erb"
+			],
+			[
+				"db/schem",
+				"db/schema.rb"
+			],
+			[
+				"product_pane",
+				"app/views/spree/shared/_product_panel.html.erb"
+			],
+			[
+				"development.rb",
+				"config/environments/development.rb"
+			],
+			[
+				"infinit",
+				"app/assets/javascripts/infinite-pagination.js.coffee.erb"
+			],
+			[
+				"events/index",
+				"spree_event_brite/app/views/spree/events/index.html.erb"
+			],
+			[
+				"shared/filters",
+				"app/views/spree/shared/_filters.html.erb"
+			],
+			[
+				"products_sidb",
+				"app/views/spree/products/_products_sidebar.html.erb"
+			],
+			[
+				"assets.rb",
+				"config/initializers/assets.rb"
+			],
+			[
+				"ckeditor",
+				"config/initializers/ckeditor.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 468.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 343.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

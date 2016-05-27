@@ -16,8 +16,8 @@
   args:
     chdir: "{{ project.local_path }}/web/app/themes/astrum-education-base"
 
-- name: Run gulp
-  command: gulp --production
+- name: Run npm build
+  command: npm build-production
   connection: local
   args:
     chdir: "{{ project.local_path }}/web/app/themes/astrum-education-base"
